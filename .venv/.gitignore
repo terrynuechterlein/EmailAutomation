@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+# Ignore everything
+*
+
+# Except these files...
+!.gitignore
+!main.py
+
+# Ignore the config.ini file
+config.ini
